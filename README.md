@@ -14,13 +14,11 @@ The dashboard is designed for business stakeholders and analysts who need quick,
 
 ## 👥 Team Members
 
-| Name | Role | What They Present |
-|------|------|-------------------|
-| **Ankit** | Data Modeling & DAX | Explains the `Data Sales Adidas` table structure, relationships, and calculated measures (Total Sales, Operating Profit, Operating Margin, etc.) |
-| **Samir** | Dashboard Design & Visualization | Walks through the visual layout — KPI cards, area chart, filled map, donut charts, and bar chart; explains why each visual was chosen |
-| **Sushant** | Data Cleaning & Transformation | Covers how raw Adidas sales data was cleaned and shaped using Power Query — handling nulls, date formatting, column types |
-| **Mahesh** | Report Layout & Storytelling | Presents the overall dashboard theme, background design, Adidas branding, color choices, and how the page tells a story |
-| **Pooja** | Data Analysis & Insights | Shares key findings — top regions, best-selling products, highest revenue retailers, and trends observed in the data |
+- Ankit
+- Samir
+- Sushant
+- Mahesh
+- Pooja
 
 ---
 
